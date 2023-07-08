@@ -1,0 +1,50 @@
+RESULTADO DOS TESTES DO ARQUIVO strings_teste.txt:
+
+1. 
+inversao -> world!! hello palavra
+rm_dup -> palvr heowd!
+palindromo -> ala
+maiusculo -> Palavra hello world!!
+anagrama_p -> False
+
+2.
+inversao -> qwertyuytrewq alkjsnvkhja wew asdfgfdsa asdsa
+rm_dup -> asd fgwelkjnvhqrtyu
+palindromo -> qwertyuytrewq
+maiusculo -> Asdsa asdfgfdsa wew alkjsnvkhja qwertyuytrewq
+anagrama_p -> False
+
+3.
+inversao -> bem?otimo.nao? tudo ola!
+rm_dup -> ola! tudbem?i.n
+palindromo -> ''
+maiusculo -> Ola! Tudo bem?Otimo.Nao?
+anagrama_p -> False
+
+4.
+inversao -> asdasd
+rm_dup -> asd
+palindromo -> ''
+maiusculo -> Asdasd
+anagrama_p -> True
+
+5.
+inversao -> kokokokokoko
+rm_dup -> ko
+palindromo -> kokokokokok
+maiusculo -> Kokokokokoko
+anagrama_p -> True
+
+6.
+inversao -> aab
+rm_dup -> ab
+palindromo -> ''
+maiusculo -> Aab
+anagrama_p -> True
+
+7.
+inversao -> aaaaadddaaaaa
+rm_dup -> ad
+palindromo -> aaaaadddaaaaa
+maiusculo -> Aaaaadddaaaaa
+anagrama_p -> True
